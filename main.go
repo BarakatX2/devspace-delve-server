@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	delve_server "devspace-delve-server/delve-server"
+	delve_server "github.com/BarakatX2/devspace-delve-server/delve-server"
 	"errors"
 	"flag"
 	"log"
