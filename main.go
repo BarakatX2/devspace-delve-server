@@ -1,4 +1,4 @@
-package devspace-delve-server
+package main
 
 import (
 	"context"
