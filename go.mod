@@ -1,4 +1,4 @@
-module devspace-delve-server
+module github.com/BarakatX2/devspace-delve-server
 
 go 1.22
 
